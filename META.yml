@@ -1,6 +1,6 @@
 ---
 name: CGI-Application-Plugin-HTMLPrototype
-version: 0.10
+version: 0.20
 author:
   - Cees Hek <ceeshek@gmail.com>
 abstract: Give easy access to the prototype JavaScript library using HTML::Prototype
@@ -11,5 +11,5 @@ requires:
 provides:
   CGI::Application::Plugin::HTMLPrototype:
     file: lib/CGI/Application/Plugin/HTMLPrototype.pm
-    version: 0.10
-generated_by: Module::Build version 0.26
+    version: 0.20
+generated_by: Module::Build version 0.2611

@@ -6,6 +6,7 @@ use warnings;
 use base qw(CGI::Application);
 use CGI::Application::Plugin::TT;
 use CGI::Application::Plugin::HTMLPrototype;
+use CGI::Application::Plugin::ViewSource;
 
 sub setup {
     my $self = shift;

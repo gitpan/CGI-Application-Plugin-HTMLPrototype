@@ -12,7 +12,7 @@ require Exporter;
 );
 sub import { goto &Exporter::import }
 
-$VERSION = '0.10';
+$VERSION = '0.20';
 
 
 ##############################################
